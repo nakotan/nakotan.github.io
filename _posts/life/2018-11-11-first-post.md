@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "마크다운 연습"
-date: 2018-11-11
-categories: life
+title: "마크다운 연습입니다."
 comments: true
+categories: [life]
+tags: [지킬]
 ---
 
 # 개요
