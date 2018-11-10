@@ -106,9 +106,6 @@ author:
   location: "Seoul"
   email: "eunnamu094@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:eunnamu094@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://hawawa.co.kr"
@@ -120,7 +117,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://nakodan.github.com"
+      url: "https://nakotan.github.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
