@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "테스트2"
 ---
 

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "awefwafweafweafwfwe"
-categories: [life]
+categories: life
 ---
 
 이거 왜 이러나...
