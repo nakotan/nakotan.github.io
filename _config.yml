@@ -18,11 +18,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "ko-KR"
 title: "나코나코"
 title_separator: "-"
-name: "나코나코"
+name: "UNYEONG"
 description: "나코나코 개발 이야기"
-url: "https://nakodan.github.io"
+url: "https://nakonako.net"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "nakodan/nakodan.github.io"
+repository: "nakotan/nakotan.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name: "나코나코"
+  name: "UNYEONG"
   avatar: "/assets/img/profile.jpg"
   bio: "나코나코 개발 이야기"
   location: "Seoul"
-  email: "eunnamu094@gmail.com"
+  email: "admin@nakonako.net"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -117,7 +117,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://nakotan.github.com"
+      url: "https://github.com/nakotan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
